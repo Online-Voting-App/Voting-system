@@ -1,4 +1,4 @@
-from django.urls import HttpResponse
+from django.urls import path
 from OVS import views 
 
 urlpatterns = [
