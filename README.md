@@ -6,19 +6,23 @@ The OVS app is an innovative online voting platform that revolutionizes the trad
 Feature list :
 
 User Profile Management:
+
 - [ ] Unique voter identifier display
 - [ ] Profile picture upload and edit
 - [ ] Regional information settings
 - [ ] Password change functionality
 - [ ] Dark/Light mode toggle
+ 
 Homepage Features:
 - [ ] Current news feed about polls
 - [ ] Candidate profiles and election updates
 - [ ] Engaging multimedia content for candidate information
+
 Voting Features:
 - [ ] Secure online voting mechanism
 - [ ] Accessible voting interface for all users
 - [ ] Real-time vote tabulation and results display
+
 Additional Features:
 - [ ] Candidate nomination and management system
 - [ ] Customizable ballots with write-in options
