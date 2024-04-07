@@ -26,6 +26,12 @@ Additional Features:
 - [ ] Social media integration for sharing voting participation
 - [ ] Comprehensive security measures to ensure vote integrity
 
+wirframe
+mobile version 
+https://www.figma.com/file/JkppYrLchwHOzJ1xvJqIsj/OVS?type=design&node-id=0%3A1&mode=design&t=MjLG8A9P4kv3s7wI-1
+
+desktop version 
+https://www.figma.com/proto/JkppYrLchwHOzJ1xvJqIsj/OVS?type=design&node-id=204-45&t=9SQzTYte2PUV6IVm-0&scaling=min-zoom&page-id=204%3A44&starting-point-node-id=204%3A45
 
 later stuff 
 * Identity Verification: Ensure robust identity verification mechanisms for voters. Blockchain can be used to securely store and verify voter identities. Each eligible voter would have a unique cryptographic identity on the blockchain, which can be used to authenticate their votes.
